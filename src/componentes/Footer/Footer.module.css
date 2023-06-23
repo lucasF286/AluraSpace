@@ -1,0 +1,17 @@
+.rodape {
+  display: flex;
+  justify-content: space-between;
+  background-color: #04244f;
+  padding: 24px;
+}
+.rodape .icones {
+  display: flex;
+  gap: 3rem;
+}
+.rodape .texto {
+  font-family: "GandhiSansRegular";
+  color: #FFF;
+  font-weight: 200;
+  font-size: 18px;
+  letter-spacing: 1px;
+}/*# sourceMappingURL=Footer.module.css.map */

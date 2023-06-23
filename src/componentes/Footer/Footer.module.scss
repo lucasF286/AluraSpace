@@ -1,0 +1,21 @@
+@import '../../styles/variaveis';
+
+.rodape {
+    display: flex;
+    justify-content: space-between;
+    background-color: $azul-rodape;
+    padding: 24px;
+
+    .icones {
+        display: flex;
+        gap: 3rem;
+    }
+
+    .texto {
+        font-family: 'GandhiSansRegular';
+        color: #FFF;
+        font-weight: 200;
+        font-size: 18px;
+        letter-spacing: 1px;
+    }
+}
