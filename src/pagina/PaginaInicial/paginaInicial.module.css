@@ -5,6 +5,7 @@ main {
 .galeria {
   display: flex;
   margin-bottom: 5rem;
+  justify-content: center;
 }
 
 .principal {

@@ -1,8 +1,9 @@
-import Cabecalho from "../../componentes/Cabecalho";
-import Footer from "../../componentes/Footer";
-import Galeria from "../../componentes/Galeria";
-import Menu from "../../componentes/Menu";
-import Populares from "../../componentes/Populares";
+import Cabecalho from "componentes/Cabecalho";
+import Footer from "componentes/Footer";
+import Galeria from "componentes/Galeria";
+import Menu from "componentes/Menu";
+import Populares from "componentes/Populares";
+
 import banner from "./banner.png"
 import styles from "./paginaInicial.module.scss"
 
