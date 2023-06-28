@@ -2,6 +2,11 @@ main {
   margin: 0 24px;
 }
 
+.galeria {
+  display: flex;
+  margin-bottom: 5rem;
+}
+
 .principal {
   display: flex;
   align-items: center;
