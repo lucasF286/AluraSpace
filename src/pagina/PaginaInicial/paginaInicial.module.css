@@ -27,11 +27,3 @@ main {
   left: 44px;
   font-family: "GandhiSansBold";
 }/*# sourceMappingURL=paginaInicial.module.css.map */
-
-.galeria {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  margin-left: 17%;
-  margin-top: 1rem;
-}
