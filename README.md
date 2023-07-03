@@ -15,7 +15,7 @@ Projeto desenvolvido no curso **React com JavaScript: lidando com arquivos está
 <br>
 
 # 💻 Acessar o projeto
-Acesse o projeto aqui → 
+Acesse o projeto aqui: https://alura-space-rouge-one.vercel.app
 
 <br>
 
